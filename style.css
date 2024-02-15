@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    background-color: #E777F7;
+    display: flex
+    
+}
+
+header{
+    width:100%;
+    border: 1px solid black;
+    padding: 10px;
+
+    display: flex
+}
+
+#perfil{
+    border: 1px solid black;
+    
+    width: 300px;
+    height: 300px;
+
+    border-radius: 50%;
+    
+}
+
+#titulo{
+    border: 1px solid black;
+    margin:40px 20px;
+    width: 250px;
+    font-size: 30px
+    
+
+    
+}
